@@ -1,0 +1,15 @@
+../time_predictions/wikidata12k-10-time-predictions-naive-0.15
+aeIOU: 0.1620
+TAC: 0.1845
+../time_predictions/wikidata12k-10-time-predictions-naive_overlap-0.15
+aeIOU: 0.1822
+TAC: 0.1946
+../time_predictions/wikidata12k-10-time-predictions-same_interval-0.15
+aeIOU: 0.1999
+TAC: 0.1916
+../time_predictions/wikidata12k-10-time-predictions-intersection_over_union-0.15
+aeIOU: 0.1887
+TAC: 0.1819
+../time_predictions/wikidata12k-10-time-predictions-temporal_alignment_coefficient-0.15
+aeIOU: 0.1861
+TAC: 0.2020

@@ -1,0 +1,40 @@
+../link_predictions/yago11k-100-link-predictions-naive-0.15-aeIOU
+Hits@1: 0.0856
+Hits@10: 0.2072
+MRR: 0.1182
+../link_predictions/yago11k-100-link-predictions-naive-0.15-TAC
+Hits@1: 0.0882
+Hits@10: 0.2048
+MRR: 0.1188
+../link_predictions/yago11k-100-link-predictions-naive_overlap-0.15-aeIOU
+Hits@1: 0.0822
+Hits@10: 0.1931
+MRR: 0.1127
+../link_predictions/yago11k-100-link-predictions-naive_overlap-0.15-TAC
+Hits@1: 0.0873
+Hits@10: 0.1945
+MRR: 0.1166
+../link_predictions/yago11k-100-link-predictions-same_interval-0.15-aeIOU
+Hits@1: 0.0612
+Hits@10: 0.0770
+MRR: 0.0664
+../link_predictions/yago11k-100-link-predictions-same_interval-0.15-TAC
+Hits@1: 0.0629
+Hits@10: 0.0773
+MRR: 0.0678
+../link_predictions/yago11k-100-link-predictions-intersection_over_union-0.15-aeIOU
+Hits@1: 0.0804
+Hits@10: 0.1543
+MRR: 0.1014
+../link_predictions/yago11k-100-link-predictions-intersection_over_union-0.15-TAC
+Hits@1: 0.0834
+Hits@10: 0.1524
+MRR: 0.1029
+../link_predictions/yago11k-100-link-predictions-temporal_alignment_coefficient-0.15-aeIOU
+Hits@1: 0.0817
+Hits@10: 0.1636
+MRR: 0.1058
+../link_predictions/yago11k-100-link-predictions-temporal_alignment_coefficient-0.15-TAC
+Hits@1: 0.0853
+Hits@10: 0.1650
+MRR: 0.1080

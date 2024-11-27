@@ -1,0 +1,15 @@
+../time_predictions/yago11k-10-time-predictions-naive-0.15
+aeIOU: 0.1897
+TAC: 0.2074
+../time_predictions/yago11k-10-time-predictions-naive_overlap-0.15
+aeIOU: 0.2634
+TAC: 0.2833
+../time_predictions/yago11k-10-time-predictions-same_interval-0.15
+aeIOU: 0.2798
+TAC: 0.3019
+../time_predictions/yago11k-10-time-predictions-intersection_over_union-0.15
+aeIOU: 0.3143
+TAC: 0.3238
+../time_predictions/yago11k-10-time-predictions-temporal_alignment_coefficient-0.15
+aeIOU: 0.3002
+TAC: 0.3136

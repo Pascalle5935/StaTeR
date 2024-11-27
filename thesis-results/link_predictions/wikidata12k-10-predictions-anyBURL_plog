@@ -1,0 +1,39 @@
+Logfile
+~~~~~~~
+
+
+PREDICTION_TYPE = aRx
+SAFE_PREFIX_MODE = false
+PATH_TRAINING = data/wikidata12k/train_cleaned.txt
+PATH_TEST = data/wikidata12k/test_cleaned.txt
+PATH_VALID = data/wikidata12k/valid_cleaned.txt
+PATH_OUTPUT = predictions/wikidata12k-10-predictions-anyBURL
+PATH_EXPLANATION = null
+PATH_RULES = anyBURL_rules/wikidata12k-10
+PATH_RULES_BASE = 
+TOP_K_OUTPUT = 10
+UNSEEN_NEGATIVE_EXAMPLES = 5
+UNSEEN_NEGATIVE_EXAMPLES_REFINE = 5
+THRESHOLD_CONFIDENCE = 1.0E-4
+DISCRIMINATION_BOUND = 10000
+TRIAL_SIZE = 1000000
+WORKER_THREADS = 6
+BEAM_SAMPLING_MAX_BODY_GROUNDINGS = 1000
+BEAM_SAMPLING_MAX_BODY_GROUNDING_ATTEMPTS = 100000
+BEAM_SAMPLING_MAX_REPETITIONS = 5
+READ_CYCLIC_RULES = 1
+READ_ACYCLIC1_RULES = 1
+READ_ACYCLIC2_RULES = 1
+READ_ZERO_RULES = 1
+READ_THRESHOLD_CONFIDENCE = 1.0E-4
+READ_THRESHOLD_CORRECT_PREDICTIONS = 2
+READ_THRESHOLD_MAX_RULE_LENGTH = 10.0
+AGGREGATION_TYPE = maxplus
+RULE_AC2_WEIGHT = 0.1
+RULE_ZERO_WEIGHT = 0.01
+
+rules:   anyBURL_rules/wikidata12k-10
+output: predictions/wikidata12k-10-predictions-anyBURL
+finished in 3s (rule indexing and application, creation and storage of ranking).
+finished in 3s including all operations (+ loading triplesets,  + loading rules).
+

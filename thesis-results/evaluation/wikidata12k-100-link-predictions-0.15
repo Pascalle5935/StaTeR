@@ -1,0 +1,40 @@
+../link_predictions/wikidata12k-100-link-predictions-naive-0.15-aeIOU
+Hits@1: 0.1393
+Hits@10: 0.3637
+MRR: 0.2022
+../link_predictions/wikidata12k-100-link-predictions-naive-0.15-TAC
+Hits@1: 0.1399
+Hits@10: 0.3682
+MRR: 0.2041
+../link_predictions/wikidata12k-100-link-predictions-naive_overlap-0.15-aeIOU
+Hits@1: 0.1266
+Hits@10: 0.2943
+MRR: 0.1780
+../link_predictions/wikidata12k-100-link-predictions-naive_overlap-0.15-TAC
+Hits@1: 0.1323
+Hits@10: 0.2992
+MRR: 0.1833
+../link_predictions/wikidata12k-100-link-predictions-same_interval-0.15-aeIOU
+Hits@1: 0.0952
+Hits@10: 0.1775
+MRR: 0.1227
+../link_predictions/wikidata12k-100-link-predictions-same_interval-0.15-TAC
+Hits@1: 0.0977
+Hits@10: 0.1773
+MRR: 0.1246
+../link_predictions/wikidata12k-100-link-predictions-intersection_over_union-0.15-aeIOU
+Hits@1: 0.1159
+Hits@10: 0.2284
+MRR: 0.1527
+../link_predictions/wikidata12k-100-link-predictions-intersection_over_union-0.15-TAC
+Hits@1: 0.1179
+Hits@10: 0.2304
+MRR: 0.1555
+../link_predictions/wikidata12k-100-link-predictions-temporal_alignment_coefficient-0.15-aeIOU
+Hits@1: 0.1349
+Hits@10: 0.2988
+MRR: 0.1851
+../link_predictions/wikidata12k-100-link-predictions-temporal_alignment_coefficient-0.15-TAC
+Hits@1: 0.1397
+Hits@10: 0.3006
+MRR: 0.1894
